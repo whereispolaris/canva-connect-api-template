@@ -1,0 +1,12 @@
+{
+  "name": "Canva Connect API",
+  "description": "A starter template for building applications with the Canva Connect API using Node.js and Express",
+  "categories": [
+    "Web app",
+    "Backend",
+    "API"
+  ],
+  "icon": "https://static.canva.com/web/images/favicons/favicon.ico",
+  "website": "https://www.canva.dev/docs/connect/",
+  "publisher": "Community Templates"
+}

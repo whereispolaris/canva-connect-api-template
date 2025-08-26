@@ -1,0 +1,30 @@
+{
+  "name": "canva-connect-api-starter",
+  "version": "1.0.0",
+  "description": "A starter template for building applications with the Canva Connect API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canva",
+    "connect-api",
+    "express",
+    "nodejs",
+    "oauth"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=20.14.0"
+  }
+}
